@@ -1,0 +1,12 @@
+D:\Денис\4 сем\ТПВИ\laba4\DAL004\bin\Debug\net8.0\DAL004.deps.json
+D:\Денис\4 сем\ТПВИ\laba4\DAL004\bin\Debug\net8.0\DAL004.dll
+D:\Денис\4 сем\ТПВИ\laba4\DAL004\bin\Debug\net8.0\DAL004.pdb
+D:\Денис\4 сем\ТПВИ\laba4\DAL004\obj\Debug\net8.0\DAL004.csproj.AssemblyReference.cache
+D:\Денис\4 сем\ТПВИ\laba4\DAL004\obj\Debug\net8.0\DAL004.GeneratedMSBuildEditorConfig.editorconfig
+D:\Денис\4 сем\ТПВИ\laba4\DAL004\obj\Debug\net8.0\DAL004.AssemblyInfoInputs.cache
+D:\Денис\4 сем\ТПВИ\laba4\DAL004\obj\Debug\net8.0\DAL004.AssemblyInfo.cs
+D:\Денис\4 сем\ТПВИ\laba4\DAL004\obj\Debug\net8.0\DAL004.csproj.CoreCompileInputs.cache
+D:\Денис\4 сем\ТПВИ\laba4\DAL004\obj\Debug\net8.0\DAL004.dll
+D:\Денис\4 сем\ТПВИ\laba4\DAL004\obj\Debug\net8.0\refint\DAL004.dll
+D:\Денис\4 сем\ТПВИ\laba4\DAL004\obj\Debug\net8.0\DAL004.pdb
+D:\Денис\4 сем\ТПВИ\laba4\DAL004\obj\Debug\net8.0\ref\DAL004.dll

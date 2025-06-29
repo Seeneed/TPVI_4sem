@@ -1,0 +1,12 @@
+D:\Денис\4 сем\ТПВИ\laba3\DAL003\bin\Release\net8.0\DAL003.deps.json
+D:\Денис\4 сем\ТПВИ\laba3\DAL003\bin\Release\net8.0\DAL003.dll
+D:\Денис\4 сем\ТПВИ\laba3\DAL003\bin\Release\net8.0\DAL003.pdb
+D:\Денис\4 сем\ТПВИ\laba3\DAL003\obj\Release\net8.0\DAL003.csproj.AssemblyReference.cache
+D:\Денис\4 сем\ТПВИ\laba3\DAL003\obj\Release\net8.0\DAL003.GeneratedMSBuildEditorConfig.editorconfig
+D:\Денис\4 сем\ТПВИ\laba3\DAL003\obj\Release\net8.0\DAL003.AssemblyInfoInputs.cache
+D:\Денис\4 сем\ТПВИ\laba3\DAL003\obj\Release\net8.0\DAL003.AssemblyInfo.cs
+D:\Денис\4 сем\ТПВИ\laba3\DAL003\obj\Release\net8.0\DAL003.csproj.CoreCompileInputs.cache
+D:\Денис\4 сем\ТПВИ\laba3\DAL003\obj\Release\net8.0\DAL003.dll
+D:\Денис\4 сем\ТПВИ\laba3\DAL003\obj\Release\net8.0\refint\DAL003.dll
+D:\Денис\4 сем\ТПВИ\laba3\DAL003\obj\Release\net8.0\DAL003.pdb
+D:\Денис\4 сем\ТПВИ\laba3\DAL003\obj\Release\net8.0\ref\DAL003.dll

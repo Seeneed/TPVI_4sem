@@ -1,0 +1,15 @@
+D:\Денис\4 сем\ТПВИ\laba6\DAL_Celebrity_MSSQL\bin\Debug\net8.0\DAL_Celebrity_MSSQL.deps.json
+D:\Денис\4 сем\ТПВИ\laba6\DAL_Celebrity_MSSQL\bin\Debug\net8.0\DAL_Celebrity_MSSQL.dll
+D:\Денис\4 сем\ТПВИ\laba6\DAL_Celebrity_MSSQL\bin\Debug\net8.0\DAL_Celebrity_MSSQL.pdb
+D:\Денис\4 сем\ТПВИ\laba6\DAL_Celebrity_MSSQL\bin\Debug\net8.0\DAL_Celebrity.dll
+D:\Денис\4 сем\ТПВИ\laba6\DAL_Celebrity_MSSQL\bin\Debug\net8.0\DAL_Celebrity.pdb
+D:\Денис\4 сем\ТПВИ\laba6\DAL_Celebrity_MSSQL\obj\Debug\net8.0\DAL_Celebrity_MSSQL.csproj.AssemblyReference.cache
+D:\Денис\4 сем\ТПВИ\laba6\DAL_Celebrity_MSSQL\obj\Debug\net8.0\DAL_Celebrity_MSSQL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Денис\4 сем\ТПВИ\laba6\DAL_Celebrity_MSSQL\obj\Debug\net8.0\DAL_Celebrity_MSSQL.AssemblyInfoInputs.cache
+D:\Денис\4 сем\ТПВИ\laba6\DAL_Celebrity_MSSQL\obj\Debug\net8.0\DAL_Celebrity_MSSQL.AssemblyInfo.cs
+D:\Денис\4 сем\ТПВИ\laba6\DAL_Celebrity_MSSQL\obj\Debug\net8.0\DAL_Celebrity_MSSQL.csproj.CoreCompileInputs.cache
+D:\Денис\4 сем\ТПВИ\laba6\DAL_Celebrity_MSSQL\obj\Debug\net8.0\DAL_Celebrity_MSSQL.csproj.CopyComplete
+D:\Денис\4 сем\ТПВИ\laba6\DAL_Celebrity_MSSQL\obj\Debug\net8.0\DAL_Celebrity_MSSQL.dll
+D:\Денис\4 сем\ТПВИ\laba6\DAL_Celebrity_MSSQL\obj\Debug\net8.0\refint\DAL_Celebrity_MSSQL.dll
+D:\Денис\4 сем\ТПВИ\laba6\DAL_Celebrity_MSSQL\obj\Debug\net8.0\DAL_Celebrity_MSSQL.pdb
+D:\Денис\4 сем\ТПВИ\laba6\DAL_Celebrity_MSSQL\obj\Debug\net8.0\ref\DAL_Celebrity_MSSQL.dll

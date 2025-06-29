@@ -1,0 +1,58 @@
+﻿body {
+    font-family: sans-serif;
+}
+
+h1 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+#celebrities-container {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    gap: 15px; 
+    padding: 10px;
+    max-width: 1200px; 
+    margin: 0 auto; 
+}
+
+#celebrities-container img {
+        width: 100%; 
+        height: auto;
+        display: block;
+        border: 1px solid #eee;
+        box-shadow: 2px 2px 5px rgba(0,0,0,0.1);
+        object-fit: cover; 
+        aspect-ratio: 3 / 2; 
+        cursor: pointer;
+}
+
+#life-events-container {
+    margin-top: 20px;
+    padding: 15px;
+    border-top: 1px solid #ccc;
+    font-size: 0.9em;
+    line-height: 1.6;
+    max-width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#life-events-container p,
+#life-events-container ul {
+        margin-bottom: 5px;
+}
+
+#life-events-container ul {
+        list-style: none;
+        padding-left: 0;
+}
+
+#life-events-container li {
+        padding: 5px 0;
+        border-bottom: 1px dashed #eee;
+}
+
+#life-events-container li:last-child {
+            border-bottom: none;
+}

@@ -1,0 +1,14 @@
+D:\Денис\4 сем\ТПВИ\laba5\Test_ASPA005_3\bin\Debug\net8.0\Test_ASPA005_3.exe
+D:\Денис\4 сем\ТПВИ\laba5\Test_ASPA005_3\bin\Debug\net8.0\Test_ASPA005_3.deps.json
+D:\Денис\4 сем\ТПВИ\laba5\Test_ASPA005_3\bin\Debug\net8.0\Test_ASPA005_3.runtimeconfig.json
+D:\Денис\4 сем\ТПВИ\laba5\Test_ASPA005_3\bin\Debug\net8.0\Test_ASPA005_3.dll
+D:\Денис\4 сем\ТПВИ\laba5\Test_ASPA005_3\bin\Debug\net8.0\Test_ASPA005_3.pdb
+D:\Денис\4 сем\ТПВИ\laba5\Test_ASPA005_3\obj\Debug\net8.0\Test_ASPA005_3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Денис\4 сем\ТПВИ\laba5\Test_ASPA005_3\obj\Debug\net8.0\Test_ASPA005_3.AssemblyInfoInputs.cache
+D:\Денис\4 сем\ТПВИ\laba5\Test_ASPA005_3\obj\Debug\net8.0\Test_ASPA005_3.AssemblyInfo.cs
+D:\Денис\4 сем\ТПВИ\laba5\Test_ASPA005_3\obj\Debug\net8.0\Test_ASPA005_3.csproj.CoreCompileInputs.cache
+D:\Денис\4 сем\ТПВИ\laba5\Test_ASPA005_3\obj\Debug\net8.0\Test_ASPA005_3.dll
+D:\Денис\4 сем\ТПВИ\laba5\Test_ASPA005_3\obj\Debug\net8.0\refint\Test_ASPA005_3.dll
+D:\Денис\4 сем\ТПВИ\laba5\Test_ASPA005_3\obj\Debug\net8.0\Test_ASPA005_3.pdb
+D:\Денис\4 сем\ТПВИ\laba5\Test_ASPA005_3\obj\Debug\net8.0\Test_ASPA005_3.genruntimeconfig.cache
+D:\Денис\4 сем\ТПВИ\laba5\Test_ASPA005_3\obj\Debug\net8.0\ref\Test_ASPA005_3.dll

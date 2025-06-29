@@ -1,0 +1,292 @@
+C:\Users\andre\Desktop\4 семестр\ТПвИ\laba 8\ASPA\ASPA008_1\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\andre\Desktop\4 семестр\ТПвИ\laba 8\ASPA\ASPA008_1\bin\Debug\net8.0\appsettings.json
+C:\Users\andre\Desktop\4 семестр\ТПвИ\laba 8\ASPA\ASPA008_1\bin\Debug\net8.0\ASPA008_1.staticwebassets.runtime.json
+C:\Users\andre\Desktop\4 семестр\ТПвИ\laba 8\ASPA\ASPA008_1\bin\Debug\net8.0\ASPA008_1.staticwebassets.endpoints.json
+C:\Users\andre\Desktop\4 семестр\ТПвИ\laba 8\ASPA\ASPA008_1\bin\Debug\net8.0\ASPA008_1.exe
+C:\Users\andre\Desktop\4 семестр\ТПвИ\laba 8\ASPA\ASPA008_1\bin\Debug\net8.0\ASPA008_1.deps.json
+C:\Users\andre\Desktop\4 семестр\ТПвИ\laba 8\ASPA\ASPA008_1\bin\Debug\net8.0\ASPA008_1.runtimeconfig.json
+C:\Users\andre\Desktop\4 семестр\ТПвИ\laba 8\ASPA\ASPA008_1\bin\Debug\net8.0\ASPA008_1.dll
+C:\Users\andre\Desktop\4 семестр\ТПвИ\laba 8\ASPA\ASPA008_1\bin\Debug\net8.0\ASPA008_1.pdb
+C:\Users\andre\Desktop\4 семестр\ТПвИ\laba 8\ASPA\ASPA008_1\obj\Debug\net8.0\ASPA008_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\Desktop\4 семестр\ТПвИ\laba 8\ASPA\ASPA008_1\obj\Debug\net8.0\ASPA008_1.AssemblyInfoInputs.cache
+C:\Users\andre\Desktop\4 семестр\ТПвИ\laba 8\ASPA\ASPA008_1\obj\Debug\net8.0\ASPA008_1.AssemblyInfo.cs
+C:\Users\andre\Desktop\4 семестр\ТПвИ\laba 8\ASPA\ASPA008_1\obj\Debug\net8.0\ASPA008_1.csproj.CoreCompileInputs.cache
+C:\Users\andre\Desktop\4 семестр\ТПвИ\laba 8\ASPA\ASPA008_1\obj\Debug\net8.0\ASPA008_1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\andre\Desktop\4 семестр\ТПвИ\laba 8\ASPA\ASPA008_1\obj\Debug\net8.0\ASPA008_1.RazorAssemblyInfo.cache
+C:\Users\andre\Desktop\4 семестр\ТПвИ\laba 8\ASPA\ASPA008_1\obj\Debug\net8.0\ASPA008_1.RazorAssemblyInfo.cs
+C:\Users\andre\Desktop\4 семестр\ТПвИ\laba 8\ASPA\ASPA008_1\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\andre\Desktop\4 семестр\ТПвИ\laba 8\ASPA\ASPA008_1\obj\Debug\net8.0\scopedcss\bundle\ASPA008_1.styles.css
+C:\Users\andre\Desktop\4 семестр\ТПвИ\laba 8\ASPA\ASPA008_1\obj\Debug\net8.0\scopedcss\projectbundle\ASPA008_1.bundle.scp.css
+C:\Users\andre\Desktop\4 семестр\ТПвИ\laba 8\ASPA\ASPA008_1\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\andre\Desktop\4 семестр\ТПвИ\laba 8\ASPA\ASPA008_1\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\andre\Desktop\4 семестр\ТПвИ\laba 8\ASPA\ASPA008_1\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\andre\Desktop\4 семестр\ТПвИ\laba 8\ASPA\ASPA008_1\obj\Debug\net8.0\staticwebassets\msbuild.ASPA008_1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\andre\Desktop\4 семестр\ТПвИ\laba 8\ASPA\ASPA008_1\obj\Debug\net8.0\staticwebassets\msbuild.ASPA008_1.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\andre\Desktop\4 семестр\ТПвИ\laba 8\ASPA\ASPA008_1\obj\Debug\net8.0\staticwebassets\msbuild.build.ASPA008_1.props
+C:\Users\andre\Desktop\4 семестр\ТПвИ\laba 8\ASPA\ASPA008_1\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ASPA008_1.props
+C:\Users\andre\Desktop\4 семестр\ТПвИ\laba 8\ASPA\ASPA008_1\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ASPA008_1.props
+C:\Users\andre\Desktop\4 семестр\ТПвИ\laba 8\ASPA\ASPA008_1\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\andre\Desktop\4 семестр\ТПвИ\laba 8\ASPA\ASPA008_1\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\andre\Desktop\4 семестр\ТПвИ\laba 8\ASPA\ASPA008_1\obj\Debug\net8.0\ASPA008_1.dll
+C:\Users\andre\Desktop\4 семестр\ТПвИ\laba 8\ASPA\ASPA008_1\obj\Debug\net8.0\refint\ASPA008_1.dll
+C:\Users\andre\Desktop\4 семестр\ТПвИ\laba 8\ASPA\ASPA008_1\obj\Debug\net8.0\ASPA008_1.pdb
+C:\Users\andre\Desktop\4 семестр\ТПвИ\laba 8\ASPA\ASPA008_1\obj\Debug\net8.0\ASPA008_1.genruntimeconfig.cache
+C:\Users\andre\Desktop\4 семестр\ТПвИ\laba 8\ASPA\ASPA008_1\obj\Debug\net8.0\ref\ASPA008_1.dll
+C:\Users\andre\Desktop\4 семестр\ТПвИ\laba 8\ASPA\ASPA008_1\obj\Debug\net8.0\ASPA008_1.csproj.AssemblyReference.cache
+C:\Users\andre\Desktop\4 семестр\ТПвИ\laba 8\ASPA\ASPA008_1\bin\Debug\net8.0\Celebrities.config.json
+C:\Users\andre\Desktop\4 семестр\ТПвИ\laba 8\ASPA\ASPA008_1\bin\Debug\net8.0\CountryCodes\iso3166-1-alpha2-country-codes.json
+C:\Users\andre\Desktop\4 семестр\ТПвИ\laba 8\ASPA\ASPA008_1\bin\Debug\net8.0\Photos\Celeberities.json
+C:\Users\andre\Desktop\4 семестр\ТПвИ\laba 8\ASPA\ASPA008_1\bin\Debug\net8.0\DAL_Celebrity.dll
+C:\Users\andre\Desktop\4 семестр\ТПвИ\laba 8\ASPA\ASPA008_1\bin\Debug\net8.0\DAL_Celebrity_MSSQL.dll
+C:\Users\andre\Desktop\4 семестр\ТПвИ\laba 8\ASPA\ASPA008_1\bin\Debug\net8.0\DAL_Celebrity.pdb
+C:\Users\andre\Desktop\4 семестр\ТПвИ\laba 8\ASPA\ASPA008_1\bin\Debug\net8.0\DAL_Celebrity_MSSQL.pdb
+C:\Users\andre\Desktop\4 семестр\ТПвИ\laba 8\ASPA\ASPA008_1\obj\Debug\net8.0\ASPA008_1.csproj.Up2Date
+C:\Users\andre\Desktop\4 семестр\ТПвИ\laba 8\ASPA\ASPA008_1\bin\Debug\net8.0\ANC25_WEBAPI_DLL.dll
+C:\Users\andre\Desktop\4 семестр\ТПвИ\laba 8\ASPA\ASPA008_1\bin\Debug\net8.0\ANC25_WEBAPI_DLL.pdb
+C:\Users\andre\Desktop\4 семестр\ТПвИ\laba 8\ASPA\ASPA008_1\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\andre\Desktop\4 семестр\ТПвИ\laba 8\ASPA\ASPA008_1\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\andre\Desktop\4 семестр\ТПвИ\laba 8\ASPA\ASPA008_1\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\andre\Desktop\4 семестр\ТПвИ\laba 8\ASPA\ASPA008_1\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\andre\Desktop\4 семестр\ТПвИ\laba 8\ASPA\ASPA008_1\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\andre\Desktop\4 семестр\ТПвИ\laba 8\ASPA\ASPA008_1\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\andre\Desktop\4 семестр\ТПвИ\laba 8\ASPA\ASPA008_1\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\andre\Desktop\4 семестр\ТПвИ\laba 8\ASPA\ASPA008_1\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\andre\Desktop\4 семестр\ТПвИ\laba 8\ASPA\ASPA008_1\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\andre\Desktop\4 семестр\ТПвИ\laba 8\ASPA\ASPA008_1\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\andre\Desktop\4 семестр\ТПвИ\laba 8\ASPA\ASPA008_1\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\andre\Desktop\4 семестр\ТПвИ\laba 8\ASPA\ASPA008_1\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\andre\Desktop\4 семестр\ТПвИ\laba 8\ASPA\ASPA008_1\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\andre\Desktop\4 семестр\ТПвИ\laba 8\ASPA\ASPA008_1\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\andre\Desktop\4 семестр\ТПвИ\laba 8\ASPA\ASPA008_1\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\andre\Desktop\4 семестр\ТПвИ\laba 8\ASPA\ASPA008_1\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\andre\Desktop\4 семестр\ТПвИ\laba 8\ASPA\ASPA008_1\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\andre\Desktop\4 семестр\ТПвИ\laba 8\ASPA\ASPA008_1\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\andre\Desktop\4 семестр\ТПвИ\laba 8\ASPA\ASPA008_1\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\andre\Desktop\4 семестр\ТПвИ\laba 8\ASPA\ASPA008_1\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\andre\Desktop\4 семестр\ТПвИ\laba 8\ASPA\ASPA008_1\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\andre\Desktop\4 семестр\ТПвИ\laba 8\ASPA\ASPA008_1\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\andre\Desktop\4 семестр\ТПвИ\laba 8\ASPA\ASPA008_1\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\andre\Desktop\4 семестр\ТПвИ\laba 8\ASPA\ASPA008_1\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\andre\Desktop\4 семестр\ТПвИ\laba 8\ASPA\ASPA008_1\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\andre\Desktop\4 семестр\ТПвИ\laba 8\ASPA\ASPA008_1\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\andre\Desktop\4 семестр\ТПвИ\laba 8\ASPA\ASPA008_1\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\andre\Desktop\4 семестр\ТПвИ\laba 8\ASPA\ASPA008_1\bin\Debug\net8.0\System.ClientModel.dll
+C:\Users\andre\Desktop\4 семестр\ТПвИ\laba 8\ASPA\ASPA008_1\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\andre\Desktop\4 семестр\ТПвИ\laba 8\ASPA\ASPA008_1\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\andre\Desktop\4 семестр\ТПвИ\laba 8\ASPA\ASPA008_1\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\andre\Desktop\4 семестр\ТПвИ\laba 8\ASPA\ASPA008_1\bin\Debug\net8.0\System.Formats.Asn1.dll
+C:\Users\andre\Desktop\4 семестр\ТПвИ\laba 8\ASPA\ASPA008_1\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\andre\Desktop\4 семестр\ТПвИ\laba 8\ASPA\ASPA008_1\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Users\andre\Desktop\4 семестр\ТПвИ\laba 8\ASPA\ASPA008_1\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\andre\Desktop\4 семестр\ТПвИ\laba 8\ASPA\ASPA008_1\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\andre\Desktop\4 семестр\ТПвИ\laba 8\ASPA\ASPA008_1\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\andre\Desktop\4 семестр\ТПвИ\laba 8\ASPA\ASPA008_1\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\andre\Desktop\4 семестр\ТПвИ\laba 8\ASPA\ASPA008_1\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\Users\andre\Desktop\4 семестр\ТПвИ\laba 8\ASPA\ASPA008_1\bin\Debug\net8.0\System.Text.Json.dll
+C:\Users\andre\Desktop\4 семестр\ТПвИ\laba 8\ASPA\ASPA008_1\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\andre\Desktop\4 семестр\ТПвИ\laba 8\ASPA\ASPA008_1\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\andre\Desktop\4 семестр\ТПвИ\laba 8\ASPA\ASPA008_1\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\andre\Desktop\4 семестр\ТПвИ\laba 8\ASPA\ASPA008_1\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\andre\Desktop\4 семестр\ТПвИ\laba 8\ASPA\ASPA008_1\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\andre\Desktop\4 семестр\ТПвИ\laba 8\ASPA\ASPA008_1\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\andre\Desktop\4 семестр\ТПвИ\laba 8\ASPA\ASPA008_1\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\andre\Desktop\4 семестр\ТПвИ\laba 8\ASPA\ASPA008_1\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\andre\Desktop\4 семестр\ТПвИ\laba 8\ASPA\ASPA008_1\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\andre\Desktop\4 семестр\ТПвИ\laba 8\ASPA\ASPA008_1\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\andre\Desktop\4 семестр\ТПвИ\laba 8\ASPA\ASPA008_1\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\andre\Desktop\4 семестр\ТПвИ\laba 8\ASPA\ASPA008_1\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\andre\Desktop\4 семестр\ТПвИ\laba 8\ASPA\ASPA008_1\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\andre\Desktop\4 семестр\ТПвИ\laba 8\ASPA\ASPA008_1\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\andre\Desktop\4 семестр\ТПвИ\laba 8\ASPA\ASPA008_1\bin\Debug\net8.0\libman.json
+D:\labs\4semestr\ProgrammingTechnologyInTheInternet\labs\lab9\laba 8\ASPA\ASPA008_1\obj\Debug\net8.0\ASPA008_1.csproj.AssemblyReference.cache
+D:\labs\4semestr\ProgrammingTechnologyInTheInternet\labs\lab9\laba 8\ASPA\ASPA008_1\obj\Debug\net8.0\ASPA008_1.GeneratedMSBuildEditorConfig.editorconfig
+D:\labs\4semestr\ProgrammingTechnologyInTheInternet\labs\lab9\laba 8\ASPA\ASPA008_1\obj\Debug\net8.0\ASPA008_1.AssemblyInfoInputs.cache
+D:\labs\4semestr\ProgrammingTechnologyInTheInternet\labs\lab9\laba 8\ASPA\ASPA008_1\obj\Debug\net8.0\ASPA008_1.AssemblyInfo.cs
+D:\labs\4semestr\ProgrammingTechnologyInTheInternet\labs\lab9\laba 8\ASPA\ASPA008_1\obj\Debug\net8.0\ASPA008_1.csproj.CoreCompileInputs.cache
+D:\labs\4semestr\ProgrammingTechnologyInTheInternet\labs\lab9\laba 8\ASPA\ASPA008_1\obj\Debug\net8.0\ASPA008_1.MvcApplicationPartsAssemblyInfo.cache
+D:\labs\4semestr\ProgrammingTechnologyInTheInternet\labs\lab9\laba 8\ASPA\ASPA008_1\obj\Debug\net8.0\ASPA008_1.RazorAssemblyInfo.cache
+D:\labs\4semestr\ProgrammingTechnologyInTheInternet\labs\lab9\laba 8\ASPA\ASPA008_1\obj\Debug\net8.0\ASPA008_1.RazorAssemblyInfo.cs
+D:\labs\4semestr\ProgrammingTechnologyInTheInternet\labs\lab9\laba 8\ASPA\ASPA008_1\obj\Debug\net8.0\ASPA008_1.dll
+D:\labs\4semestr\ProgrammingTechnologyInTheInternet\labs\lab9\laba 8\ASPA\ASPA008_1\obj\Debug\net8.0\refint\ASPA008_1.dll
+D:\labs\4semestr\ProgrammingTechnologyInTheInternet\labs\lab9\laba 8\ASPA\ASPA008_1\obj\Debug\net8.0\ASPA008_1.pdb
+D:\labs\4semestr\ProgrammingTechnologyInTheInternet\labs\lab9\laba 8\ASPA\ASPA008_1\bin\Debug\net8.0\appsettings.Development.json
+D:\labs\4semestr\ProgrammingTechnologyInTheInternet\labs\lab9\laba 8\ASPA\ASPA008_1\bin\Debug\net8.0\appsettings.json
+D:\labs\4semestr\ProgrammingTechnologyInTheInternet\labs\lab9\laba 8\ASPA\ASPA008_1\bin\Debug\net8.0\CountryCodes\iso3166-1-alpha2-country-codes.json
+D:\labs\4semestr\ProgrammingTechnologyInTheInternet\labs\lab9\laba 8\ASPA\ASPA008_1\bin\Debug\net8.0\Photos\Celeberities.json
+D:\labs\4semestr\ProgrammingTechnologyInTheInternet\labs\lab9\laba 8\ASPA\ASPA008_1\bin\Debug\net8.0\Celebrities.config.json
+D:\labs\4semestr\ProgrammingTechnologyInTheInternet\labs\lab9\laba 8\ASPA\ASPA008_1\bin\Debug\net8.0\libman.json
+D:\labs\4semestr\ProgrammingTechnologyInTheInternet\labs\lab9\laba 8\ASPA\ASPA008_1\bin\Debug\net8.0\ASPA008_1.staticwebassets.runtime.json
+D:\labs\4semestr\ProgrammingTechnologyInTheInternet\labs\lab9\laba 8\ASPA\ASPA008_1\bin\Debug\net8.0\ASPA008_1.exe
+D:\labs\4semestr\ProgrammingTechnologyInTheInternet\labs\lab9\laba 8\ASPA\ASPA008_1\bin\Debug\net8.0\ASPA008_1.deps.json
+D:\labs\4semestr\ProgrammingTechnologyInTheInternet\labs\lab9\laba 8\ASPA\ASPA008_1\bin\Debug\net8.0\ASPA008_1.runtimeconfig.json
+D:\labs\4semestr\ProgrammingTechnologyInTheInternet\labs\lab9\laba 8\ASPA\ASPA008_1\bin\Debug\net8.0\ASPA008_1.dll
+D:\labs\4semestr\ProgrammingTechnologyInTheInternet\labs\lab9\laba 8\ASPA\ASPA008_1\bin\Debug\net8.0\ASPA008_1.pdb
+D:\labs\4semestr\ProgrammingTechnologyInTheInternet\labs\lab9\laba 8\ASPA\ASPA008_1\bin\Debug\net8.0\Azure.Core.dll
+D:\labs\4semestr\ProgrammingTechnologyInTheInternet\labs\lab9\laba 8\ASPA\ASPA008_1\bin\Debug\net8.0\Azure.Identity.dll
+D:\labs\4semestr\ProgrammingTechnologyInTheInternet\labs\lab9\laba 8\ASPA\ASPA008_1\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\labs\4semestr\ProgrammingTechnologyInTheInternet\labs\lab9\laba 8\ASPA\ASPA008_1\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\labs\4semestr\ProgrammingTechnologyInTheInternet\labs\lab9\laba 8\ASPA\ASPA008_1\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\labs\4semestr\ProgrammingTechnologyInTheInternet\labs\lab9\laba 8\ASPA\ASPA008_1\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\labs\4semestr\ProgrammingTechnologyInTheInternet\labs\lab9\laba 8\ASPA\ASPA008_1\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\labs\4semestr\ProgrammingTechnologyInTheInternet\labs\lab9\laba 8\ASPA\ASPA008_1\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\labs\4semestr\ProgrammingTechnologyInTheInternet\labs\lab9\laba 8\ASPA\ASPA008_1\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\labs\4semestr\ProgrammingTechnologyInTheInternet\labs\lab9\laba 8\ASPA\ASPA008_1\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\labs\4semestr\ProgrammingTechnologyInTheInternet\labs\lab9\laba 8\ASPA\ASPA008_1\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\labs\4semestr\ProgrammingTechnologyInTheInternet\labs\lab9\laba 8\ASPA\ASPA008_1\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\labs\4semestr\ProgrammingTechnologyInTheInternet\labs\lab9\laba 8\ASPA\ASPA008_1\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\labs\4semestr\ProgrammingTechnologyInTheInternet\labs\lab9\laba 8\ASPA\ASPA008_1\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\labs\4semestr\ProgrammingTechnologyInTheInternet\labs\lab9\laba 8\ASPA\ASPA008_1\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\labs\4semestr\ProgrammingTechnologyInTheInternet\labs\lab9\laba 8\ASPA\ASPA008_1\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\labs\4semestr\ProgrammingTechnologyInTheInternet\labs\lab9\laba 8\ASPA\ASPA008_1\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+D:\labs\4semestr\ProgrammingTechnologyInTheInternet\labs\lab9\laba 8\ASPA\ASPA008_1\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\labs\4semestr\ProgrammingTechnologyInTheInternet\labs\lab9\laba 8\ASPA\ASPA008_1\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\labs\4semestr\ProgrammingTechnologyInTheInternet\labs\lab9\laba 8\ASPA\ASPA008_1\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\labs\4semestr\ProgrammingTechnologyInTheInternet\labs\lab9\laba 8\ASPA\ASPA008_1\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\labs\4semestr\ProgrammingTechnologyInTheInternet\labs\lab9\laba 8\ASPA\ASPA008_1\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\labs\4semestr\ProgrammingTechnologyInTheInternet\labs\lab9\laba 8\ASPA\ASPA008_1\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\labs\4semestr\ProgrammingTechnologyInTheInternet\labs\lab9\laba 8\ASPA\ASPA008_1\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\labs\4semestr\ProgrammingTechnologyInTheInternet\labs\lab9\laba 8\ASPA\ASPA008_1\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\labs\4semestr\ProgrammingTechnologyInTheInternet\labs\lab9\laba 8\ASPA\ASPA008_1\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\labs\4semestr\ProgrammingTechnologyInTheInternet\labs\lab9\laba 8\ASPA\ASPA008_1\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\labs\4semestr\ProgrammingTechnologyInTheInternet\labs\lab9\laba 8\ASPA\ASPA008_1\bin\Debug\net8.0\System.ClientModel.dll
+D:\labs\4semestr\ProgrammingTechnologyInTheInternet\labs\lab9\laba 8\ASPA\ASPA008_1\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\labs\4semestr\ProgrammingTechnologyInTheInternet\labs\lab9\laba 8\ASPA\ASPA008_1\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+D:\labs\4semestr\ProgrammingTechnologyInTheInternet\labs\lab9\laba 8\ASPA\ASPA008_1\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\labs\4semestr\ProgrammingTechnologyInTheInternet\labs\lab9\laba 8\ASPA\ASPA008_1\bin\Debug\net8.0\System.Formats.Asn1.dll
+D:\labs\4semestr\ProgrammingTechnologyInTheInternet\labs\lab9\laba 8\ASPA\ASPA008_1\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\labs\4semestr\ProgrammingTechnologyInTheInternet\labs\lab9\laba 8\ASPA\ASPA008_1\bin\Debug\net8.0\System.IO.Pipelines.dll
+D:\labs\4semestr\ProgrammingTechnologyInTheInternet\labs\lab9\laba 8\ASPA\ASPA008_1\bin\Debug\net8.0\System.Memory.Data.dll
+D:\labs\4semestr\ProgrammingTechnologyInTheInternet\labs\lab9\laba 8\ASPA\ASPA008_1\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\labs\4semestr\ProgrammingTechnologyInTheInternet\labs\lab9\laba 8\ASPA\ASPA008_1\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\labs\4semestr\ProgrammingTechnologyInTheInternet\labs\lab9\laba 8\ASPA\ASPA008_1\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\labs\4semestr\ProgrammingTechnologyInTheInternet\labs\lab9\laba 8\ASPA\ASPA008_1\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+D:\labs\4semestr\ProgrammingTechnologyInTheInternet\labs\lab9\laba 8\ASPA\ASPA008_1\bin\Debug\net8.0\System.Text.Json.dll
+D:\labs\4semestr\ProgrammingTechnologyInTheInternet\labs\lab9\laba 8\ASPA\ASPA008_1\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\labs\4semestr\ProgrammingTechnologyInTheInternet\labs\lab9\laba 8\ASPA\ASPA008_1\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\labs\4semestr\ProgrammingTechnologyInTheInternet\labs\lab9\laba 8\ASPA\ASPA008_1\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\labs\4semestr\ProgrammingTechnologyInTheInternet\labs\lab9\laba 8\ASPA\ASPA008_1\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\labs\4semestr\ProgrammingTechnologyInTheInternet\labs\lab9\laba 8\ASPA\ASPA008_1\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\labs\4semestr\ProgrammingTechnologyInTheInternet\labs\lab9\laba 8\ASPA\ASPA008_1\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\labs\4semestr\ProgrammingTechnologyInTheInternet\labs\lab9\laba 8\ASPA\ASPA008_1\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\labs\4semestr\ProgrammingTechnologyInTheInternet\labs\lab9\laba 8\ASPA\ASPA008_1\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\labs\4semestr\ProgrammingTechnologyInTheInternet\labs\lab9\laba 8\ASPA\ASPA008_1\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\labs\4semestr\ProgrammingTechnologyInTheInternet\labs\lab9\laba 8\ASPA\ASPA008_1\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\labs\4semestr\ProgrammingTechnologyInTheInternet\labs\lab9\laba 8\ASPA\ASPA008_1\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\labs\4semestr\ProgrammingTechnologyInTheInternet\labs\lab9\laba 8\ASPA\ASPA008_1\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\labs\4semestr\ProgrammingTechnologyInTheInternet\labs\lab9\laba 8\ASPA\ASPA008_1\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+D:\labs\4semestr\ProgrammingTechnologyInTheInternet\labs\lab9\laba 8\ASPA\ASPA008_1\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\labs\4semestr\ProgrammingTechnologyInTheInternet\labs\lab9\laba 8\ASPA\ASPA008_1\bin\Debug\net8.0\ANC25_WEBAPI_DLL.dll
+D:\labs\4semestr\ProgrammingTechnologyInTheInternet\labs\lab9\laba 8\ASPA\ASPA008_1\bin\Debug\net8.0\DAL_Celebrity.dll
+D:\labs\4semestr\ProgrammingTechnologyInTheInternet\labs\lab9\laba 8\ASPA\ASPA008_1\bin\Debug\net8.0\DAL_Celebrity_MSSQL.dll
+D:\labs\4semestr\ProgrammingTechnologyInTheInternet\labs\lab9\laba 8\ASPA\ASPA008_1\bin\Debug\net8.0\DAL_Celebrity.pdb
+D:\labs\4semestr\ProgrammingTechnologyInTheInternet\labs\lab9\laba 8\ASPA\ASPA008_1\bin\Debug\net8.0\DAL_Celebrity_MSSQL.pdb
+D:\labs\4semestr\ProgrammingTechnologyInTheInternet\labs\lab9\laba 8\ASPA\ASPA008_1\bin\Debug\net8.0\ANC25_WEBAPI_DLL.pdb
+D:\labs\4semestr\ProgrammingTechnologyInTheInternet\labs\lab9\laba 8\ASPA\ASPA008_1\obj\Debug\net8.0\staticwebassets.build.json
+D:\labs\4semestr\ProgrammingTechnologyInTheInternet\labs\lab9\laba 8\ASPA\ASPA008_1\obj\Debug\net8.0\staticwebassets.development.json
+D:\labs\4semestr\ProgrammingTechnologyInTheInternet\labs\lab9\laba 8\ASPA\ASPA008_1\obj\Debug\net8.0\staticwebassets\msbuild.ASPA008_1.Microsoft.AspNetCore.StaticWebAssets.props
+D:\labs\4semestr\ProgrammingTechnologyInTheInternet\labs\lab9\laba 8\ASPA\ASPA008_1\obj\Debug\net8.0\staticwebassets\msbuild.build.ASPA008_1.props
+D:\labs\4semestr\ProgrammingTechnologyInTheInternet\labs\lab9\laba 8\ASPA\ASPA008_1\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ASPA008_1.props
+D:\labs\4semestr\ProgrammingTechnologyInTheInternet\labs\lab9\laba 8\ASPA\ASPA008_1\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ASPA008_1.props
+D:\labs\4semestr\ProgrammingTechnologyInTheInternet\labs\lab9\laba 8\ASPA\ASPA008_1\obj\Debug\net8.0\staticwebassets.pack.json
+D:\labs\4semestr\ProgrammingTechnologyInTheInternet\labs\lab9\laba 8\ASPA\ASPA008_1\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\labs\4semestr\ProgrammingTechnologyInTheInternet\labs\lab9\laba 8\ASPA\ASPA008_1\obj\Debug\net8.0\scopedcss\bundle\ASPA008_1.styles.css
+D:\labs\4semestr\ProgrammingTechnologyInTheInternet\labs\lab9\laba 8\ASPA\ASPA008_1\obj\Debug\net8.0\scopedcss\projectbundle\ASPA008_1.bundle.scp.css
+D:\labs\4semestr\ProgrammingTechnologyInTheInternet\labs\lab9\laba 8\ASPA\ASPA008_1\obj\Debug\net8.0\ASPA008_1.csproj.Up2Date
+D:\labs\4semestr\ProgrammingTechnologyInTheInternet\labs\lab9\laba 8\ASPA\ASPA008_1\obj\Debug\net8.0\ASPA008_1.genruntimeconfig.cache
+D:\labs\4semestr\ProgrammingTechnologyInTheInternet\labs\lab9\laba 8\ASPA\ASPA008_1\obj\Debug\net8.0\ref\ASPA008_1.dll
+D:\Денис\4 сем\ТПВИ\laba8\ASPA008_1\bin\Debug\net8.0\appsettings.Development.json
+D:\Денис\4 сем\ТПВИ\laba8\ASPA008_1\bin\Debug\net8.0\appsettings.json
+D:\Денис\4 сем\ТПВИ\laba8\ASPA008_1\bin\Debug\net8.0\Celebrities.config.json
+D:\Денис\4 сем\ТПВИ\laba8\ASPA008_1\bin\Debug\net8.0\CountryCodes\iso3166-1-alpha2-country-codes.json
+D:\Денис\4 сем\ТПВИ\laba8\ASPA008_1\bin\Debug\net8.0\libman.json
+D:\Денис\4 сем\ТПВИ\laba8\ASPA008_1\bin\Debug\net8.0\Photos\Celeberities.json
+D:\Денис\4 сем\ТПВИ\laba8\ASPA008_1\bin\Debug\net8.0\ASPA008_1.staticwebassets.runtime.json
+D:\Денис\4 сем\ТПВИ\laba8\ASPA008_1\bin\Debug\net8.0\ASPA008_1.exe
+D:\Денис\4 сем\ТПВИ\laba8\ASPA008_1\bin\Debug\net8.0\ASPA008_1.deps.json
+D:\Денис\4 сем\ТПВИ\laba8\ASPA008_1\bin\Debug\net8.0\ASPA008_1.runtimeconfig.json
+D:\Денис\4 сем\ТПВИ\laba8\ASPA008_1\bin\Debug\net8.0\ASPA008_1.dll
+D:\Денис\4 сем\ТПВИ\laba8\ASPA008_1\bin\Debug\net8.0\ASPA008_1.pdb
+D:\Денис\4 сем\ТПВИ\laba8\ASPA008_1\bin\Debug\net8.0\Azure.Core.dll
+D:\Денис\4 сем\ТПВИ\laba8\ASPA008_1\bin\Debug\net8.0\Azure.Identity.dll
+D:\Денис\4 сем\ТПВИ\laba8\ASPA008_1\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Денис\4 сем\ТПВИ\laba8\ASPA008_1\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\Денис\4 сем\ТПВИ\laba8\ASPA008_1\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Денис\4 сем\ТПВИ\laba8\ASPA008_1\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Денис\4 сем\ТПВИ\laba8\ASPA008_1\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Денис\4 сем\ТПВИ\laba8\ASPA008_1\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Денис\4 сем\ТПВИ\laba8\ASPA008_1\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Денис\4 сем\ТПВИ\laba8\ASPA008_1\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Денис\4 сем\ТПВИ\laba8\ASPA008_1\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Денис\4 сем\ТПВИ\laba8\ASPA008_1\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Денис\4 сем\ТПВИ\laba8\ASPA008_1\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Денис\4 сем\ТПВИ\laba8\ASPA008_1\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\Денис\4 сем\ТПВИ\laba8\ASPA008_1\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Денис\4 сем\ТПВИ\laba8\ASPA008_1\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\Денис\4 сем\ТПВИ\laba8\ASPA008_1\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+D:\Денис\4 сем\ТПВИ\laba8\ASPA008_1\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\Денис\4 сем\ТПВИ\laba8\ASPA008_1\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Денис\4 сем\ТПВИ\laba8\ASPA008_1\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Денис\4 сем\ТПВИ\laba8\ASPA008_1\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Денис\4 сем\ТПВИ\laba8\ASPA008_1\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Денис\4 сем\ТПВИ\laba8\ASPA008_1\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Денис\4 сем\ТПВИ\laba8\ASPA008_1\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Денис\4 сем\ТПВИ\laba8\ASPA008_1\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Денис\4 сем\ТПВИ\laba8\ASPA008_1\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\Денис\4 сем\ТПВИ\laba8\ASPA008_1\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\Денис\4 сем\ТПВИ\laba8\ASPA008_1\bin\Debug\net8.0\System.ClientModel.dll
+D:\Денис\4 сем\ТПВИ\laba8\ASPA008_1\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Денис\4 сем\ТПВИ\laba8\ASPA008_1\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+D:\Денис\4 сем\ТПВИ\laba8\ASPA008_1\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\Денис\4 сем\ТПВИ\laba8\ASPA008_1\bin\Debug\net8.0\System.Formats.Asn1.dll
+D:\Денис\4 сем\ТПВИ\laba8\ASPA008_1\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Денис\4 сем\ТПВИ\laba8\ASPA008_1\bin\Debug\net8.0\System.IO.Pipelines.dll
+D:\Денис\4 сем\ТПВИ\laba8\ASPA008_1\bin\Debug\net8.0\System.Memory.Data.dll
+D:\Денис\4 сем\ТПВИ\laba8\ASPA008_1\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\Денис\4 сем\ТПВИ\laba8\ASPA008_1\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Денис\4 сем\ТПВИ\laba8\ASPA008_1\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\Денис\4 сем\ТПВИ\laba8\ASPA008_1\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+D:\Денис\4 сем\ТПВИ\laba8\ASPA008_1\bin\Debug\net8.0\System.Text.Json.dll
+D:\Денис\4 сем\ТПВИ\laba8\ASPA008_1\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\Денис\4 сем\ТПВИ\laba8\ASPA008_1\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Денис\4 сем\ТПВИ\laba8\ASPA008_1\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Денис\4 сем\ТПВИ\laba8\ASPA008_1\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Денис\4 сем\ТПВИ\laba8\ASPA008_1\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Денис\4 сем\ТПВИ\laba8\ASPA008_1\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Денис\4 сем\ТПВИ\laba8\ASPA008_1\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Денис\4 сем\ТПВИ\laba8\ASPA008_1\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Денис\4 сем\ТПВИ\laba8\ASPA008_1\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Денис\4 сем\ТПВИ\laba8\ASPA008_1\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Денис\4 сем\ТПВИ\laba8\ASPA008_1\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Денис\4 сем\ТПВИ\laba8\ASPA008_1\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Денис\4 сем\ТПВИ\laba8\ASPA008_1\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+D:\Денис\4 сем\ТПВИ\laba8\ASPA008_1\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Денис\4 сем\ТПВИ\laba8\ASPA008_1\bin\Debug\net8.0\ANC25_WEBAPI_DLL.dll
+D:\Денис\4 сем\ТПВИ\laba8\ASPA008_1\bin\Debug\net8.0\DAL_Celebrity.dll
+D:\Денис\4 сем\ТПВИ\laba8\ASPA008_1\bin\Debug\net8.0\DAL_Celebrity_MSSQL.dll
+D:\Денис\4 сем\ТПВИ\laba8\ASPA008_1\bin\Debug\net8.0\DAL_Celebrity.pdb
+D:\Денис\4 сем\ТПВИ\laba8\ASPA008_1\bin\Debug\net8.0\DAL_Celebrity_MSSQL.pdb
+D:\Денис\4 сем\ТПВИ\laba8\ASPA008_1\bin\Debug\net8.0\ANC25_WEBAPI_DLL.pdb
+D:\Денис\4 сем\ТПВИ\laba8\ASPA008_1\obj\Debug\net8.0\ASPA008_1.csproj.AssemblyReference.cache
+D:\Денис\4 сем\ТПВИ\laba8\ASPA008_1\obj\Debug\net8.0\ASPA008_1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Денис\4 сем\ТПВИ\laba8\ASPA008_1\obj\Debug\net8.0\ASPA008_1.AssemblyInfoInputs.cache
+D:\Денис\4 сем\ТПВИ\laba8\ASPA008_1\obj\Debug\net8.0\ASPA008_1.AssemblyInfo.cs
+D:\Денис\4 сем\ТПВИ\laba8\ASPA008_1\obj\Debug\net8.0\ASPA008_1.csproj.CoreCompileInputs.cache
+D:\Денис\4 сем\ТПВИ\laba8\ASPA008_1\obj\Debug\net8.0\ASPA008_1.MvcApplicationPartsAssemblyInfo.cache
+D:\Денис\4 сем\ТПВИ\laba8\ASPA008_1\obj\Debug\net8.0\ASPA008_1.RazorAssemblyInfo.cache
+D:\Денис\4 сем\ТПВИ\laba8\ASPA008_1\obj\Debug\net8.0\ASPA008_1.RazorAssemblyInfo.cs
+D:\Денис\4 сем\ТПВИ\laba8\ASPA008_1\obj\Debug\net8.0\staticwebassets.build.json
+D:\Денис\4 сем\ТПВИ\laba8\ASPA008_1\obj\Debug\net8.0\staticwebassets.development.json
+D:\Денис\4 сем\ТПВИ\laba8\ASPA008_1\obj\Debug\net8.0\staticwebassets\msbuild.ASPA008_1.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Денис\4 сем\ТПВИ\laba8\ASPA008_1\obj\Debug\net8.0\staticwebassets\msbuild.build.ASPA008_1.props
+D:\Денис\4 сем\ТПВИ\laba8\ASPA008_1\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ASPA008_1.props
+D:\Денис\4 сем\ТПВИ\laba8\ASPA008_1\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ASPA008_1.props
+D:\Денис\4 сем\ТПВИ\laba8\ASPA008_1\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Денис\4 сем\ТПВИ\laba8\ASPA008_1\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Денис\4 сем\ТПВИ\laba8\ASPA008_1\obj\Debug\net8.0\scopedcss\bundle\ASPA008_1.styles.css
+D:\Денис\4 сем\ТПВИ\laba8\ASPA008_1\obj\Debug\net8.0\scopedcss\projectbundle\ASPA008_1.bundle.scp.css
+D:\Денис\4 сем\ТПВИ\laba8\ASPA008_1\obj\Debug\net8.0\ASPA008_1.csproj.CopyComplete
+D:\Денис\4 сем\ТПВИ\laba8\ASPA008_1\obj\Debug\net8.0\ASPA008_1.dll
+D:\Денис\4 сем\ТПВИ\laba8\ASPA008_1\obj\Debug\net8.0\refint\ASPA008_1.dll
+D:\Денис\4 сем\ТПВИ\laba8\ASPA008_1\obj\Debug\net8.0\ASPA008_1.pdb
+D:\Денис\4 сем\ТПВИ\laba8\ASPA008_1\obj\Debug\net8.0\ASPA008_1.genruntimeconfig.cache
+D:\Денис\4 сем\ТПВИ\laba8\ASPA008_1\obj\Debug\net8.0\ref\ASPA008_1.dll

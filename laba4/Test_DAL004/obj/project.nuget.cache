@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "rPMMPf7OKFWmUfgjRBukd9aYzhLPE1s3j47ITYzqJwfztbsV4vjiRhyX+jjMdrQqVQA4j+2c8/KefiaHveYx2A==",
+  "success": true,
+  "projectFilePath": "D:\\Денис\\4 сем\\ТПВИ\\laba4\\Test_DAL004\\Test_DAL004.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Денис Мамонько\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

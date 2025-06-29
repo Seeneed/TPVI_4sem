@@ -1,0 +1,6 @@
+﻿{
+  "Celebrities": {
+    "PhotosFolder": "D:\\Денис\\4 сем\\ТПВИ\\laba6\\ASPA006_1\\Photos",
+    "ConnectionString": "Server=DESKTOP-SNMNO70; Database=LES01; Trusted_Connection=true; TrustServerCertificate=Yes"
+  }
+}
